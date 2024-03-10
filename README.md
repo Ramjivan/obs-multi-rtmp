@@ -32,7 +32,7 @@ Recently a Baidu Tieba account 'maggot' is selling this plugin. Please, don't bu
 
 
 # Donate
-
+just to make workflow run
 如果你觉得这个工具很有用想要捐赠，这里是链接。注意：这不是提需求的渠道。
 
 このツールの開発に支援もとい投げ銭をしたいと思った方は以下のリンクからお願いします。(機能のリクエストは受け付けていません)
